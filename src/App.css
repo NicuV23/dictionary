@@ -1,3 +1,9 @@
-button {
-  margin-top: 20px;
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.search {
+  height: 20px;
 }
